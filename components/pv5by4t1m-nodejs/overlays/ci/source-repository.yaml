@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pv5by4t1m-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pv5by4t1m-nodejs
